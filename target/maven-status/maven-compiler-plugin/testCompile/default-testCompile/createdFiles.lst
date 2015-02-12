@@ -1,0 +1,4 @@
+sample\jpa\repository\JpaTagRepositoryIntegrationTests.class
+sample\jpa\repository\JpaNoteRepositoryIntegrationTests.class
+sample\jpa\SampleJpaApplicationTests.class
+javal\sample\data\jpa\AppTest.class

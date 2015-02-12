@@ -1,0 +1,10 @@
+javal\sample\data\jpa\App.class
+sample\jpa\repository\JpaTagRepository.class
+sample\jpa\domain\Note.class
+sample\jpa\domain\Tag.class
+sample\jpa\repository\NoteRepository.class
+sample\jpa\SampleJpaApplication.class
+sample\jpa\repository\JpaNoteRepository.class
+sample\jpa\repository\TagRepository.class
+sample\jpa\web\IndexController.class
+sample\jpa\web\WelcomeController.class
