@@ -10,5 +10,8 @@ Eclisep 里的 github 更新
  |----------master[branch]  “Add Spec”
  
  
+ 注:
+ commit 提交到本地
+ push   推动到github
  
  --EOF--
