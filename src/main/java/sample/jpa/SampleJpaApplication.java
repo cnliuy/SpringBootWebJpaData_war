@@ -32,6 +32,8 @@ public class SampleJpaApplication extends SpringBootServletInitializer {
 		return application.sources(SampleJpaApplication.class);
 	}
 	
+
+	
 	public static void main(String[] args) throws Exception {
 		SpringApplication.run(SampleJpaApplication.class, args);
 	}
