@@ -16,17 +16,26 @@
 
 package sample.jpa;
 
+import java.util.Map;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
 import org.springframework.context.annotation.Configuration;
 
+import sample.aop.service.HelloWorldService;
+import sample.jpa.web.WelcomeController;
+
 
 
 @SpringBootApplication
-public class SampleJpaApplication extends SpringBootServletInitializer  {
-	
+public class SampleJpaApplication extends SpringBootServletInitializer {
+//public class SampleJpaApplication extends SpringBootServletInitializer implements CommandLineRunner{
+	@Autowired
+	private WelcomeController welcomeController;
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
@@ -38,5 +47,13 @@ public class SampleJpaApplication extends SpringBootServletInitializer  {
 	public static void main(String[] args) throws Exception {
 		SpringApplication.run(SampleJpaApplication.class, args);
 	}
+
+
+
+	//@Override
+	//public void run(String... args) throws Exception {
+		//Error
+		//System.out.println(this.welcomeController.welcome(null));		
+	//}
 
 }
