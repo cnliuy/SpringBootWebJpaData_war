@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Configuration;
 
 
 @SpringBootApplication
-public class SampleJpaApplication extends SpringBootServletInitializer {
+public class SampleJpaApplication extends SpringBootServletInitializer  {
 	
 
 	@Override

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="sample.jpa.SampleJpaApplicationTests" time="0.016" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="sample.jpa.SampleJpaApplicationTests" time="0.026" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="E:\Java\Java8\jdk1.8.0_25\jre\bin"/>
@@ -25,9 +25,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="E:\Java\Java8\eclipse-jee-luna-SR1-win32-x86_64\eclipse_workspace_luna\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1890897782823444409.tmp"/>
+    <property name="classworlds.conf" value="E:\Java\Java8\eclipse-jee-luna-SR1-win32-x86_64\eclipse_workspace_luna\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3608080522285593933.tmp"/>
     <property name="sun.jnu.encoding" value="GBK"/>
-    <property name="java.library.path" value="E:\Java\Java8\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:/Java/Java8/jre1.8.0/bin/server;E:/Java/Java8/jre1.8.0/bin;E:/Java/Java8/jre1.8.0/lib/amd64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;E:\Java\Java8\jdk1.8.0_25\bin;E:\Java\Java8\jdk1.8.0_25\jre\bin;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;E:\Java\Java8\apache-maven-3.2.3-bin\apache-maven-3.2.3\bin;E:\Java\Git\cmd;E:\Java\Java8\eclipse-jee-luna-SR1-win32-x86_64\eclipse;;."/>
+    <property name="java.library.path" value="E:\Java\Java8\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_31/bin/server;C:/Program Files/Java/jre1.8.0_31/bin;C:/Program Files/Java/jre1.8.0_31/lib/amd64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;E:\Java\Java8\jdk1.8.0_25\bin;E:\Java\Java8\jdk1.8.0_25\jre\bin;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;E:\Java\Java8\apache-maven-3.2.3-bin\apache-maven-3.2.3\bin;E:\Java\Git\cmd;E:\Java\Java8\eclipse-jee-luna-SR1-win32-x86_64\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -38,7 +38,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="GBK"/>
     <property name="user.name" value="ly"/>
-    <property name="java.class.path" value="/E:/Java/Java8/eclipse-jee-luna-SR1-win32-x86_64/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.0.20140605-2032/jars/plexus-classworlds-2.5.1.jar"/>
+    <property name="java.class.path" value="/E:/Java/Java8/eclipse-jee-luna-SR1-win32-x86_64/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.1.20150109-1819/jars/plexus-classworlds-2.5.1.jar"/>
     <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
@@ -60,5 +60,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testHome" classname="sample.jpa.SampleJpaApplicationTests" time="0.016"/>
+  <testcase name="testHome" classname="sample.jpa.SampleJpaApplicationTests" time="0.026"/>
 </testsuite>
